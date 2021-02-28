@@ -1,2 +1,3 @@
 # hello-world
-My first repository in github
+first repository in github
+I'm trying to be hired at one job since I almost finished the junior's study plan
